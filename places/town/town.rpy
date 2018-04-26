@@ -1,7 +1,7 @@
-image town = "places/town/town.png"
+image bg town = "places/town/town.png"
 
 label town:
-    scene town
+    scene bg town
     "Stai in citta"
 
     menu:

@@ -1,6 +1,6 @@
-image church = "places/church/church.jpg"
+image bg church = "places/church/church.jpg"
 
 label church:
-    scene church
+    scene bg church
     "stai in chiesa"
     return

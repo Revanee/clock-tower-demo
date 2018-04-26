@@ -1,14 +1,16 @@
-image room = "places/house/room.png"
-image living_room = "places/house/living_room.jpg"
-image second_floor = "places/house/second_floor.jpg"
-image staircase = "places/house/staircase.jpg"
+image bg room = "places/house/room.png"
+image bg living_room = "places/house/living_room.jpg"
+image bg second_floor = "places/house/second_floor.jpg"
+image bg staircase = "places/house/staircase.jpg"
+
+image bg dream = "images/dream.png"
 
 label house:
     jump dream
 
 label dream:
 
-    scene dream
+    scene bg dream
 
     '...E mi addormentai...\n
     Sfinito e dolorante iniziai a sognare:'
@@ -35,7 +37,7 @@ label dream:
 
 label room:
 
-    scene room
+    scene bg room
 
     show h at left
 
@@ -45,7 +47,7 @@ label room:
 
 label staircase:
 
-    scene staircase
+    scene bg staircase
 
     show j at right
 
@@ -63,7 +65,7 @@ label staircase:
 
 label second_floor:
 
-    scene second_floor
+    scene bg second_floor
 
     h "Sto al secondo piano"
 
@@ -71,7 +73,7 @@ label second_floor:
 
 label living_room:
 
-    scene living_room
+    scene bg living_room
     
     show j at right
 

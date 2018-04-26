@@ -1,7 +1,7 @@
-image bar = "places/bar/bar.jpg"
+image bg bar = "places/bar/bar.jpg"
 
 label bar:
-    scene bar
+    scene bg bar
     "stai al bar"
 
     return
