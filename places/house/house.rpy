@@ -60,9 +60,9 @@ label room:
 
     'Apro lentamente la porta, non vorrei svegliare la signora Wellis, ma un odore di caffè appena fatto mi entra furiosamente nelle narici.'
     
-    'Quest\'odore mi rallagra un po\'.
+    'Quest\'odore mi rallagra un po\'.'
     
-    '\nSono ancora furioso per quello che è successo ieri, ma non ho motivo di essere troppo pessimista...\nOra come ora, sfiorando la pistola, penso solo che vorrei non doverla usare.'
+    'Sono ancora furioso per quello che è successo ieri, ma non ho motivo di essere troppo pessimista...\nOra come ora, sfiorando la pistola, penso solo che vorrei non doverla usare.'
 
     ''
 
