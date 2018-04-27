@@ -1,7 +1,7 @@
 image bg room = "places/house/room.png"
 image bg living_room = "places/house/living_room.jpg"
 image bg second_floor = "places/house/second_floor.jpg"
-image bg staircase = "places/house/staircase.jpg"
+image bg staircase = "places/house/staircase.png"
 
 image bg dream = "images/dream.png"
 
