@@ -50,17 +50,19 @@ label room:
 
     #Pistole e Proiettili sul comodino inquadrati.
 
-    'Questa maledetta gamba non la smette di farmi male, forse dovrei farlo presente alla signora Wellis...O forse no.\nMeglio evitare di farglielo notare, servirebbe solo a farla preoccupare'
+    'Questa maledetta gamba non la smette di farmi male, forse dovrei farlo presente alla signora Wellis...O forse no.\nMeglio evitare di farglielo notare, servirebbe solo a farla preoccupare.'
 
     'Mi alzo faticosamente dal letto, appoggiandomi al ruvido muro della mia camera.\nRaggiungo altrettanto faticosamente i miei vestiti per indossarli, ma la testa mi gira e non riesco a pensare lucidamente...'
     
     h 'Non mi farò più cogliere impreparato, qualunque o qualsiasi cosa fosse... Me la paghera cara.'
 
-    'Afferro la pistola e la carico, senza fretta.\nTendo ad essere troppo impulsivo quando non mi sento al sicuro, ne sono consapevo, ma non per questo mi farò fottere un\'altra volta'
+    'Afferro la pistola e la carico, senza fretta.\nTendo ad essere troppo impulsivo quando non mi sento al sicuro, ne sono consapevole, ma non per questo mi farò fottere un\'altra volta.'
 
-    'Apro lentamente la porta, non vorrei svegliare la signora Wellis, ma probabilmente non ho di che preoccuparmi\ndato che la prima cosa che percepisco aprendo la porta è un forte odore di caffè appena fatto.'
-
-    'Quest\'odore mi rallagra un po\'.\nSono ancora furioso per quello che è successo ieri, ma non ho motivo di essere troppo pessimista...\nOra come ora, sfiorando la pistola, penso solo che vorrei non doverla usare.'
+    'Apro lentamente la porta, non vorrei svegliare la signora Wellis, ma un odore di caffè appena fatto mi entra furiosamente nelle narici.'
+    
+    'Quest\'odore mi rallagra un po\'.
+    
+    '\nSono ancora furioso per quello che è successo ieri, ma non ho motivo di essere troppo pessimista...\nOra come ora, sfiorando la pistola, penso solo che vorrei non doverla usare.'
 
     ''
 
