@@ -105,7 +105,9 @@ label living_room:
 
     j 'Certo figliuolo, dammi un secondo.'
 
-    # [-J.W. scompare dall’inquadratura, per poi tornare con la stessa espressione-]
+    hide j with moveoutright
+    '...'
+    show j at right with moveinright
 
     j 'Sono le 06:50 in punto; tra poco suonerà la campana delle 07:00 per annunciare l’inizio del lavoro dei contadini'
     h 'Strano, non possiede nemmeno lei un’orologio?'
