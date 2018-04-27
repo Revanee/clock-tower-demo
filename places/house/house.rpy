@@ -41,7 +41,22 @@ label room:
 
     show h at left
 
-    h "blabla"
+    h 'Anf...Anf...'
+
+    'È un violino...
+    'Sembra provenire dalla stanza accanto...?'
+
+    #Potenziale transizione verso ipotetica finestra posta al lato del letto atta a inquadrare l'alba.
+
+    'Non ho tempo di pensare a certe cose, sta sorgendo l\'Alba... Ho del lavoro da sbrigare.'
+
+    #Pistole e Proiettili sul comodino inquadrati.
+
+    'Questa maledetta gamba non la smette di farmi male, forse dovrei farlo presente alla signora Wellis...O forse no.
+    'Meglio evitare di farglielo notare, servirebbe solo a farla preoccupare'
+
+
+
 
     jump second_floor
 
