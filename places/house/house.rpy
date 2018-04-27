@@ -52,7 +52,7 @@ label room:
 
     'Questa maledetta gamba non la smette di farmi male, forse dovrei farlo presente alla signora Wellis...O forse no.\nMeglio evitare di farglielo notare, servirebbe solo a farla preoccupare'
 
-    'Mi alzo faticosamente dal letto, appoggiandomi al ruvido muro della mia camera.\n Raggiungo altrettanto faticosamente i miei vestiti per indossarli, ma la testa mi gira e non riesco a pensare lucidamente...'
+    'Mi alzo faticosamente dal letto, appoggiandomi al ruvido muro della mia camera.\nRaggiungo altrettanto faticosamente i miei vestiti per indossarli, ma la testa mi gira e non riesco a pensare lucidamente...'
     
     h 'Non mi farò più cogliere impreparato, qualunque o qualsiasi cosa fosse... Me la paghera cara.'
 
