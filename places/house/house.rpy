@@ -12,8 +12,7 @@ label dream:
 
     scene bg dream
 
-    '...E mi addormentai...\n
-    Sfinito e dolorante iniziai a sognare:'
+    '...E mi addormentai...\nSfinito e dolorante iniziai a sognare:'
 
     'Sognai la mia famiglia e la mia vecchia casa.'
 
@@ -43,8 +42,7 @@ label room:
 
     h 'Anf...Anf...'
 
-    'È un violino...
-    'Sembra provenire dalla stanza accanto...?'
+    'È un violino...\nSembra provenire dalla stanza accanto...?'
 
     #Potenziale transizione verso ipotetica finestra posta al lato del letto atta a inquadrare l'alba.
 
@@ -52,8 +50,7 @@ label room:
 
     #Pistole e Proiettili sul comodino inquadrati.
 
-    'Questa maledetta gamba non la smette di farmi male, forse dovrei farlo presente alla signora Wellis...O forse no.
-    'Meglio evitare di farglielo notare, servirebbe solo a farla preoccupare'
+    'Questa maledetta gamba non la smette di farmi male, forse dovrei farlo presente alla signora Wellis...O forse no.\nMeglio evitare di farglielo notare, servirebbe solo a farla preoccupare'
 
 
 
@@ -82,7 +79,7 @@ label second_floor:
 
     scene bg second_floor
 
-    h "Sto al secondo piano"
+    h 'Sto al secondo piano'
 
     jump staircase
 
@@ -110,7 +107,6 @@ label living_room:
     j 'Sono le 06:50 in punto; tra poco suonerà la campana delle 07:00 per annunciare l’inizio del lavoro dei contadini'
     h 'Strano, non possiede nemmeno lei un’orologio?'
 
-    j "Ciao"
+    j 'Ciao'
 
     jump town
-
