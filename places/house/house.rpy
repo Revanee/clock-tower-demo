@@ -20,11 +20,11 @@ label dream:
     
     'Sognai intrichi di arabeschi simboli e architetture stupende e lontane, ma anormale.'
 
-    'Vidi e Sentii cose che non riesco tutt\'ora a descrivere o anche solo ricordare nitidamente'
+    'Vidi e Sentii cose che non riesco tutt\'ora a descrivere o anche solo ricordare nitidamente.'
 
-    'Ma una cose è certa,'
+    'Ma una cose è certa.'
 
-    'per tutto il sogno fui accompagnato da una melodia.'
+    'Per tutto il sogno fui accompagnato da una melodia.'
 
     'Triste e cupa, piena di emozioni complicate e distorte... Era una cantilena assordante e sfiancante... Ne fui incantato e spaventato allo stesso tempo.'
 
@@ -41,30 +41,54 @@ label room:
     show h at left
 
     h 'Anf...Anf...'
+    '...'
 
-    'È un violino...\nSembra provenire dalla stanza accanto...?'
+    'Cos\'è questo suono... Sembra...Sembra un violino...'
+
+    '...?'
+
+    'Proviene dalla stanza accanto...?'
 
     #Potenziale transizione verso ipotetica finestra posta al lato del letto atta a inquadrare l'alba.
+    h 'Ma che cazzo di sogno era?!'
 
-    'Non ho tempo di pensare a certe cose, sta sorgendo l\'Alba... Ho del lavoro da sbrigare.'
+    'Sono madido di sudore e ho i nervi tesi come se avessi corso tutta la notte.'
+    
+    'Mi sembra di essere più stanco di quando sono andato a dormire...'
+
+    'Scuoto la testa, cercando di svegliarmi del tutto.'
+
+    'Non ho il tempo da perdere, sta sorgendo l\'Alba... Ho del lavoro da sbrigare.'
 
     #Pistole e Proiettili sul comodino inquadrati.
+    'Una fortissima fitta alla gamba mi ricorda le spiacevoli avventure della sera prima nei boschi'
 
-    'Questa maledetta gamba non la smette di farmi male, forse dovrei farlo presente alla signora Wellis...O forse no.\nMeglio evitare di farglielo notare, servirebbe solo a farla preoccupare.'
+    'Questa maledetta gamba non la smette di farmi male, forse dovrei farlo presente alla signora Wellis...O forse no.'
 
-    'Mi alzo faticosamente dal letto, appoggiandomi al ruvido muro della mia camera.\nRaggiungo altrettanto faticosamente i miei vestiti per indossarli, ma la testa mi gira e non riesco a pensare lucidamente...'
+    'La farei solo preoccupare\nvedrò di cavarmela da solo, come sempre del resto.'
+
+    'Mi alzo faticosamente dal letto, appoggiandomi al ruvido muro della mia camera.'
+    
+    'Raggiungo altrettanto faticosamente i miei vestiti per indossarli, ma la testa mi gira e non riesco a pensare lucidamente...'
     
     h 'Non mi farò più cogliere impreparato, qualunque o qualsiasi cosa fosse... Me la paghera cara.'
 
-    'Afferro la pistola e la carico, senza fretta.\nTendo ad essere troppo impulsivo quando non mi sento al sicuro, ne sono consapevole, ma non per questo mi farò fottere un\'altra volta.'
+    'Afferro la pistola e la carico, senza fretta.'
+    
+    'Tendo ad essere troppo impulsivo quando non mi sento al sicuro, ne sono consapevole, ma non per questo mi farò fottere un\'altra volta.'
 
-    'Apro lentamente la porta, non vorrei svegliare la signora Wellis, ma un odore di caffè appena fatto mi entra furiosamente nelle narici.'
+    'Apro lentamente la porta, non vorrei svegliare la signora Wellis.' 
+    
+    'ma un odore di caffè appena fatto mi entra furiosamente nelle narici.'
     
     'Quest\'odore mi rallagra un po\'.'
     
-    'Sono ancora furioso per quello che è successo ieri, ma non ho motivo di essere troppo pessimista...\nOra come ora, sfiorando la pistola, penso solo che vorrei non doverla usare.'
+    'Sono ancora furioso per quello che è successo ieri, ma non ho motivo di essere troppo pessimista...'
+    
+    'Ora come ora, sfiorando la pistola, penso solo che vorrei non doverla usare...'
 
-    ''
+
+
 
 
 
