@@ -58,10 +58,10 @@ label room:
 
     'Scuoto la testa, cercando di svegliarmi del tutto.'
 
-    'Non ho il tempo da perdere, sta sorgendo l\'Alba... Ho del lavoro da sbrigare.'
+    'Non ho tempo da perdere, sta sorgendo l\'Alba... Ho del lavoro da sbrigare.'
 
     #Pistole e Proiettili sul comodino inquadrati.
-    'Una fortissima fitta alla gamba mi ricorda le spiacevoli avventure della sera prima nei boschi'
+    'Una fortissima fitta alla gamba mi ricorda le spiacevoli avventure della sera prima nei boschi.'
 
     'Questa maledetta gamba non la smette di farmi male, forse dovrei farlo presente alla signora Wellis...O forse no.'
 
