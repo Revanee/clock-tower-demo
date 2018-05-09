@@ -124,8 +124,7 @@ label living_room:
     j 'Chiaro chiaro, non mi immischierò nelle tue faccende giovinastro, sappi solo che se ti serve qualcosa puoi far affidamento sulla vecchia Janet!'
 
     h 'Ci sarebbe una cosa.'
-    h 'Che ore sono?'
-
+    h 'Che ore sono
     j 'Certo figliuolo, dammi un secondo.'
 
     hide j with moveoutright
@@ -135,6 +134,6 @@ label living_room:
     j 'Sono le 06:50 in punto; tra poco suonerà la campana delle 07:00 per annunciare l’inizio del lavoro dei contadini'
     h 'Strano, non possiede nemmeno lei un’orologio?'
 
-    j 'Ciao'
+    j 'Ciao bb'
 
     jump town
